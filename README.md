@@ -2,9 +2,11 @@
 
 1. 프로그램 파일
 
-   - 리눅스 : file_download_api
+   - 리눅스 : [file_download_api](
+https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/target/x86_64-unknown-linux-gnu/release/file_download_api)
 
-   - 윈도우 : file_download_api.exe
+   - 윈도우 : [file_download_api.exe](
+   https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/target/release/file_download_api.exe)
 
 2. 기본 포트 : 9991 (프로그램 실행시 포트 지정 가능)
    
@@ -113,4 +115,8 @@
     - 없는 폴더를 요청한 경우 : Folder not found
     - 파일은 존재하나, 오픈이 불가능한 경우 : Could not open file
     - 파일은 존재하나, 읽는 게 불가능한 경우 : Could not read file
+<<<<<<< HEAD
 ***
+=======
+***
+>>>>>>> d2ca1117b354903d6be12500cf7704e2e375b5b8
