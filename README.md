@@ -55,7 +55,7 @@ https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/tar
 
 ### 📬 **GET**
 
-- Endpoint : **[GET]**  /fiies?path=`{다운로드 file path1}, {다운로드 file path2}`
+- Endpoint : **[GET]**  /fiies?path=`{다운로드 file path1},{다운로드 file path2}`
 
 - Description: 어러개의 파일 다운로드 (다운로드 되는 파일은 1번째 path의 확장자 포함된 이름 + .zip)
 
