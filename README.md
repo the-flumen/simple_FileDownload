@@ -114,8 +114,3 @@ https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/tar
     - 없는 폴더를 요청한 경우 : Folder not found
     - 파일은 존재하나, 오픈이 불가능한 경우 : Could not open file
     - 파일은 존재하나, 읽는 게 불가능한 경우 : Could not read file
-<<<<<<< HEAD
-***
-=======
-***
->>>>>>> d2ca1117b354903d6be12500cf7704e2e375b5b8
