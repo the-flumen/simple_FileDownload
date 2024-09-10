@@ -1,0 +1,11 @@
+D:\Visual Studio Code\simple_FileDownload\file_download_api\target\release\deps\libsocket2-4dd3242ca814811a.rmeta: C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\lib.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockaddr.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\socket.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockref.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sys\windows.rs
+
+D:\Visual Studio Code\simple_FileDownload\file_download_api\target\release\deps\libsocket2-4dd3242ca814811a.rlib: C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\lib.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockaddr.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\socket.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockref.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sys\windows.rs
+
+D:\Visual Studio Code\simple_FileDownload\file_download_api\target\release\deps\socket2-4dd3242ca814811a.d: C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\lib.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockaddr.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\socket.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockref.rs C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sys\windows.rs
+
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\lib.rs:
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockaddr.rs:
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\socket.rs:
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sockref.rs:
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.7\src\sys\windows.rs:

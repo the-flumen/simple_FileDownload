@@ -1,0 +1,73 @@
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-pc-windows-msvc")
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,sse,sse2,sse3")
+DEBUG = Some("true")
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+blocksort.c
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': 매크로 재정의
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 이전에 명령줄에서 선언된 'BZ_EXPORT'
+huffman.c
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': 매크로 재정의
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 이전에 명령줄에서 선언된 'BZ_EXPORT'
+crctable.c
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': 매크로 재정의
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 이전에 명령줄에서 선언된 'BZ_EXPORT'
+randtable.c
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': 매크로 재정의
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 이전에 명령줄에서 선언된 'BZ_EXPORT'
+compress.c
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': 매크로 재정의
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 이전에 명령줄에서 선언된 'BZ_EXPORT'
+decompress.c
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': 매크로 재정의
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 이전에 명령줄에서 선언된 'BZ_EXPORT'
+bzlib.c
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': 매크로 재정의
+C:\Users\박미진\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 이전에 명령줄에서 선언된 'BZ_EXPORT'
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rustc-link-search=native=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\atlmfc\lib\x64
+cargo:rustc-link-lib=static=bz2
+cargo:rustc-link-search=native=D:\Visual Studio Code\simple_FileDownload\file_download_api\target\debug\build\bzip2-sys-f981eeb90d5c24b5\out\lib
+cargo:root=D:\Visual Studio Code\simple_FileDownload\file_download_api\target\debug\build\bzip2-sys-f981eeb90d5c24b5\out
+cargo:include=D:\Visual Studio Code\simple_FileDownload\file_download_api\target\debug\build\bzip2-sys-f981eeb90d5c24b5\out\include
