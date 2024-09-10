@@ -26,7 +26,6 @@ https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/tar
 # api 명세서
 
 
-***
 ### 📬 **GET**
 
 - Endpoint : **[GET]**  /fiie?path=`{다운로드 file path}`
@@ -54,7 +53,6 @@ https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/tar
     - 파일은 존재하나, 읽는 게 불가능한 경우 : Could not read file
 ***
 
-***
 ### 📬 **GET**
 
 - Endpoint : **[GET]**  /fiies?path=`{다운로드 file path1}, {다운로드 file path2}`
@@ -64,7 +62,7 @@ https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/tar
      ex. /home/ec2-user/fileDownload/nohup.out
 
          /home/ec2-user/inzentweb/xedm-project-0.0.1-SNAPSHOT.jar
-         
+
          두 개 파일 요청 시, nohup.out.zip으로 압축되어 다운로드 됨
 
 - Request  Example:
@@ -89,7 +87,6 @@ https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/tar
 ***
 
 
-***
 ### 📬 **GET**
 
 - Endpoint : **[GET]**  /folder?path=`{다운로드 folder path1}`
