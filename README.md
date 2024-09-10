@@ -62,7 +62,9 @@ https://github.com/the-flumen/simple_FileDownload/raw/main/file_download_api/tar
 - Description: 어러개의 파일 다운로드 (다운로드 되는 파일은 1번째 path의 확장자 포함된 이름 + .zip)
 
      ex. /home/ec2-user/fileDownload/nohup.out
+
          /home/ec2-user/inzentweb/xedm-project-0.0.1-SNAPSHOT.jar
+         
          두 개 파일 요청 시, nohup.out.zip으로 압축되어 다운로드 됨
 
 - Request  Example:
